@@ -1,14 +1,14 @@
 {
-    "name": "ilya-sp/recaptcha",
+    "name": "BuyOwnEx/recaptcha",
     "description": "A Laravel 5.5 package providing support for reCAPTCHA.",
-    "homepage": "https://github.com/ilya-sp/recaptcha",
+    "homepage": "https://github.com/BuyOwnEx/recaptcha",
     "type": "library",
     "keywords": ["laravel", "package", "recaptcha"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Ilya Spiridonov",
-            "email": "ilya.sp.work@gmail.com"
+            "name": "BuyOwnEx Ltd.",
+            "email": "support@buyownex.com"
         }
     ],
     "require": {
