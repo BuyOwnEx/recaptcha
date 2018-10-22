@@ -8,7 +8,7 @@ Enjoy!
 ## Installation
 
 ```sh
-composer require BuyOwnEx/recaptcha
+composer require buyownex/recaptcha
 ./artisan vendor:publish --provider "Ilya\Recaptcha\RecaptchaServiceProvider"
 ```
 
