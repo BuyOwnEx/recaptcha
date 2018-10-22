@@ -1,5 +1,5 @@
 {
-    "name": "BuyOwnEx/recaptcha",
+    "name": "buyownex/recaptcha",
     "description": "A Laravel 5.5 package providing support for reCAPTCHA.",
     "homepage": "https://github.com/BuyOwnEx/recaptcha",
     "type": "library",
